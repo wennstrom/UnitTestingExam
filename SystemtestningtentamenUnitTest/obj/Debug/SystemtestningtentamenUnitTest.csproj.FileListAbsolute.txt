@@ -1,0 +1,16 @@
+C:\Users\oskar\Desktop\SystemtestningTentamenOskarWennström-\SystemtestningtentamenUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\oskar\Desktop\SystemtestningTentamenOskarWennström-\SystemtestningtentamenUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\oskar\Desktop\SystemtestningTentamenOskarWennström-\SystemtestningtentamenUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\oskar\Desktop\SystemtestningTentamenOskarWennström-\SystemtestningtentamenUnitTest\bin\Debug\SystemtestningtentamenUnitTest.dll
+C:\Users\oskar\Desktop\SystemtestningTentamenOskarWennström-\SystemtestningtentamenUnitTest\bin\Debug\SystemtestningtentamenUnitTest.pdb
+C:\Users\oskar\Desktop\SystemtestningTentamenOskarWennström-\SystemtestningtentamenUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\oskar\Desktop\SystemtestningTentamenOskarWennström-\SystemtestningtentamenUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\oskar\Desktop\SystemtestningTentamenOskarWennström-\SystemtestningtentamenUnitTest\bin\Debug\SystemtestningtentamenClassLibrary.dll
+C:\Users\oskar\Desktop\SystemtestningTentamenOskarWennström-\SystemtestningtentamenUnitTest\bin\Debug\SystemtestningtentamenClassLibrary.pdb
+C:\Users\oskar\Desktop\SystemtestningTentamenOskarWennström-\SystemtestningtentamenUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\oskar\Desktop\SystemtestningTentamenOskarWennström-\SystemtestningtentamenUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\oskar\Desktop\SystemtestningTentamenOskarWennström-\SystemtestningtentamenUnitTest\obj\Debug\SystemtestningtentamenUnitTest.csprojAssemblyReference.cache
+C:\Users\oskar\Desktop\SystemtestningTentamenOskarWennström-\SystemtestningtentamenUnitTest\obj\Debug\SystemtestningtentamenUnitTest.csproj.CoreCompileInputs.cache
+C:\Users\oskar\Desktop\SystemtestningTentamenOskarWennström-\SystemtestningtentamenUnitTest\obj\Debug\SystemtestningtentamenUnitTest.csproj.CopyComplete
+C:\Users\oskar\Desktop\SystemtestningTentamenOskarWennström-\SystemtestningtentamenUnitTest\obj\Debug\SystemtestningtentamenUnitTest.dll
+C:\Users\oskar\Desktop\SystemtestningTentamenOskarWennström-\SystemtestningtentamenUnitTest\obj\Debug\SystemtestningtentamenUnitTest.pdb
